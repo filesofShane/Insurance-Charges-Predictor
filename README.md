@@ -65,10 +65,3 @@ Evaluated the model using:
 
 ---
 
-## How to Run
-
-1. Clone the repo or copy the code into a Python/Jupyter environment.
-2. Ensure the dataset path is correct in your script.
-3. Install dependencies:
-   ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn
